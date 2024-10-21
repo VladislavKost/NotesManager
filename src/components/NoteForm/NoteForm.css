@@ -1,0 +1,26 @@
+.note-input {
+    width: 500px;
+    height: 150px;
+    resize: none;
+}
+
+.form-input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    gap: 10px
+}
+
+.note-submit-button {
+    background-color: white;
+    border: none;
+}
+
+.note-submit-icon {
+    color: rgb(28, 137, 238)
+}
